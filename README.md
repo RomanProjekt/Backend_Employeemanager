@@ -1,4 +1,4 @@
-# be_employeemanager-master - Projektstatus: abgeschlossen
+# be_employeemanager-master - Status: abgeschlossen
 Backend Development: employeemanager 
 
 Um immer auf dem aktuellen Stand zu sein, verbessere ich meine derzeitigen IT-Kenntnisse und bringe mir neue 
