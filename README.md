@@ -7,5 +7,8 @@ Programmiersprachen (z.B.: Typescript, C#) , sowie moderne Frameworks (z.B.: Spr
 
 Backend Development: employeemanager 
 - Projektname: Employeemanager
-- Verwendete Technologien: Backend: Spring Boot, Java, Datenbank: MySQL, SQL, Spring Boot JPA, ORM: Hibernate
+- Verwendete Technologien:
+  - Backend: Spring Boot, Java,
+  - Datenbank: MySQL, SQL
+  - Spring Boot JPA, ORM: Hibernate
 
